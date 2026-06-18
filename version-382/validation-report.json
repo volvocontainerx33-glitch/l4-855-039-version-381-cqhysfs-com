@@ -1,0 +1,22 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 8,
+  "category_total_movies": 2000,
+  "category_card_count": 2000,
+  "html_pages": 2012,
+  "html_without_baidu": [],
+  "image_files_in_package": [],
+  "m3u8_source_count": 20,
+  "logo_name": "国产高分剧集",
+  "category_distribution": {
+    "high-rated-domestic": 250,
+    "hot-series": 250,
+    "drama-suspense": 250,
+    "urban-romance": 250,
+    "comedy-healing": 250,
+    "action-sci-fi": 250,
+    "classic-years": 250,
+    "global-selection": 250
+  }
+}

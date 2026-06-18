@@ -1,0 +1,8 @@
+{
+  "title": "国产高分电视剧-电视剧热播榜单-精选内容持续更新",
+  "site_name": "国产高分剧集",
+  "movie_count": 2000,
+  "category_count": 8,
+  "m3u8_source_count": 20,
+  "cover_rule": "第 N 条影片使用 ((N - 1) % 150) + 1.jpg"
+}
